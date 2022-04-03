@@ -9,7 +9,10 @@ import os
 os.system("clear")
 print("Loading.. [ Wait For Second ]")
 print("Verification [ Phone IP ]")
-print("")
+print("1")
+
+print("2")
+print("3")
       
 os.system("cls")
 print(" Seven Tools | Executive Present ")

@@ -9,8 +9,9 @@ import os
 os.system("clear")
 print("Loading.. [ Wait For Second ]")
 print("Verification [ Phone IP ]")
-
-os.system("clear")
+print(")
+      
+os.system("cls")
 print(" Seven Tools | Executive Present ")
 ip = str(input(" No Abuse | Targets :"))
 port = int(input(" No Abuse | Port :"))
